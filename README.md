@@ -19,6 +19,8 @@ even local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue pull requests to review.
+
 ##Copyright
 
 2014 Git.Training
